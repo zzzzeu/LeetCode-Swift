@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
     <pages>
-        <page name='771 Jewels and Stones'/>
         <page name='1 Two Sum'/>
-        <page name='17 Letter Combinations of a Phone Number'/>
         <page name='3 Longest Substring Without Repeating Characters'/>
+        <page name='17 Letter Combinations of a Phone Number'/>
+        <page name='771 Jewels and Stones'/>
+        <page name='7 Reverse Integer'/>
     </pages>
 </playground>
