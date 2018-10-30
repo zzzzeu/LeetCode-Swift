@@ -8,5 +8,6 @@
         <page name='7 Reverse Integer'/>
         <page name='9 Palindrome Number'/>
         <page name='46 Permutations'/>
+        <page name='728 Self Dividing Numbers'/>
     </pages>
 </playground>
