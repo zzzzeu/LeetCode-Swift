@@ -9,5 +9,6 @@
         <page name='9 Palindrome Number'/>
         <page name='46 Permutations'/>
         <page name='728 Self Dividing Numbers'/>
+        <page name='12 Integer to Roman'/>
     </pages>
 </playground>
