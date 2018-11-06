@@ -10,5 +10,8 @@
         <page name='46 Permutations'/>
         <page name='728 Self Dividing Numbers'/>
         <page name='12 Integer to Roman'/>
+        <page name='11 Container With Most Water'/>
+        <page name='13 Roman to Integer'/>
+        <page name='14 Longest Common Prefix'/>
     </pages>
 </playground>
