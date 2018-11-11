@@ -16,5 +16,6 @@
         <page name='15 3Sum'/>
         <page name='16 3Sum Closest'/>
         <page name='18 4Sum'/>
+        <page name='20 Valid Parentheses'/>
     </pages>
 </playground>
