@@ -10,6 +10,5 @@
         <page name='234 Palindrome Linked List'/>
         <page name='21 Merge Two Sorted Lists'/>
         <page name='109  Convert Sorted List to Binary Search Tree'/>
-        <page name='19 Remove Nth Node From End of List'/>
     </pages>
 </playground>
