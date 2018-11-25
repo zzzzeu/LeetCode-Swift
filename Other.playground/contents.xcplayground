@@ -23,5 +23,6 @@
         <page name='35 Search Insert Position'/>
         <page name='48 Rotate Image'/>
         <page name='53 Maximum Subarray'/>
+        <page name='58 Length of Last Word'/>
     </pages>
 </playground>
