@@ -28,5 +28,6 @@
         <page name='67 Add Binary'/>
         <page name='69 Sqrt(x)'/>
         <page name='70 Climbing Stairs'/>
+        <page name='118 Pascals Triangle'/>
     </pages>
 </playground>
