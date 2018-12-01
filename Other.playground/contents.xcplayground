@@ -29,5 +29,6 @@
         <page name='69 Sqrt(x)'/>
         <page name='70 Climbing Stairs'/>
         <page name='118 Pascals Triangle'/>
+        <page name='119 Pascals Triangle II'/>
     </pages>
 </playground>
