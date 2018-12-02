@@ -30,5 +30,6 @@
         <page name='70 Climbing Stairs'/>
         <page name='118 Pascals Triangle'/>
         <page name='119 Pascals Triangle II'/>
+        <page name='120 Triangle'/>
     </pages>
 </playground>
