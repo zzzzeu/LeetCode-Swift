@@ -3,8 +3,6 @@
     <pages>
         <page name='104 Maximum Depth of Binary Tree'/>
         <page name='226 Invert Binary Tree'/>
-        <page name='199 Binary Tree Right Side View'/>
         <page name='814 Binary Tree Pruning'/>
-        <page name='94 Binary Tree Inorder Traversal'/>
     </pages>
 </playground>
