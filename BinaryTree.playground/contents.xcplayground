@@ -7,5 +7,8 @@
         <page name='199 Binary Tree Right Side View'/>
         <page name='226 Invert Binary Tree'/>
         <page name='814 Binary Tree Pruning'/>
+        <page name='144 Binary Tree Preorder Traversal'/>
+        <page name='230 Kth Smallest Element in a BST'/>
+        <page name='108 Convert Sorted Array to Binary Search Tree'/>
     </pages>
 </playground>
