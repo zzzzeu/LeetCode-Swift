@@ -1,22 +1,20 @@
 func levelOrderBottom(_ root: TreeNode?) -> [[Int]] {
     var tree = [TreeNode]()
     var res = [[Int]]()
-    if root == nil {
-        return res
-    }
-    tree.append(root!)
+    guard let root = root else { return res }
+    tree.append(root)
     var node = root
     while !tree.isEmpty {
         var level = [Int]()
         var count = tree.count
         while count != 0 {
             node = tree.removeFirst()
-            level.append(node!.val)
-            if node?.left != nil {
-                tree.append(node!.left!)
+            level.append(node.val)
+            if let left = node.left {
+                tree.append(left)
             }
-            if node?.right != nil {
-                tree.append(node!.right!)
+            if let right = node.right {
+                tree.append(right)
             }
             count -= 1
         }
