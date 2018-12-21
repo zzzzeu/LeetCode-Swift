@@ -33,5 +33,8 @@
         <page name='120 Triangle'/>
         <page name='121 Best Time to Buy And Sell Stock'/>
         <page name='122 Best Time to Buy And Sell Stock II'/>
+        <page name='125 Valid Palindrome'/>
+        <page name='136 Submissions'/>
+        <page name='167 Two Sum II Input Array is Sorted'/>
     </pages>
 </playground>
