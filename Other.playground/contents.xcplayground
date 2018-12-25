@@ -39,5 +39,6 @@
         <page name='172 Factorial Trailing Zeroes'/>
         <page name='169 Majority Element'/>
         <page name='189 Rotate Array'/>
+        <page name='198 House Robber'/>
     </pages>
 </playground>
