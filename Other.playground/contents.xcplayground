@@ -36,9 +36,7 @@
         <page name='125 Valid Palindrome'/>
         <page name='136 Submissions'/>
         <page name='167 Two Sum II Input Array is Sorted'/>
-        <page name='172 Factorial Trailing Zeroes'/>
         <page name='169 Majority Element'/>
-        <page name='189 Rotate Array'/>
-        <page name='198 House Robber'/>
+        <page name='172 Factorial Trailing Zeroes'/>
     </pages>
 </playground>
