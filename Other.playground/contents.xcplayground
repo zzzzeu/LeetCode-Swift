@@ -38,5 +38,9 @@
         <page name='167 Two Sum II Input Array is Sorted'/>
         <page name='169 Majority Element'/>
         <page name='172 Factorial Trailing Zeroes'/>
+        <page name='189 Rotate Array'/>
+        <page name='198 House Robber'/>
+        <page name='202 Happy Number'/>
+        <page name='26 Remove Duplicates From Sorted Array'/>
     </pages>
 </playground>
