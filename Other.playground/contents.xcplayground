@@ -41,6 +41,5 @@
         <page name='189 Rotate Array'/>
         <page name='198 House Robber'/>
         <page name='202 Happy Number'/>
-        <page name='26 Remove Duplicates From Sorted Array'/>
     </pages>
 </playground>
