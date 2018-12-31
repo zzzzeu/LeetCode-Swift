@@ -44,5 +44,6 @@
         <page name='26 Remove Duplicates From Sorted Array'/>
         <page name='204 Count Primes'/>
         <page name='217 Contains Duplicate'/>
+        <page name='219 Contains Duplicate II'/>
     </pages>
 </playground>
