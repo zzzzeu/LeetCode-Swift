@@ -45,5 +45,6 @@
         <page name='204 Count Primes'/>
         <page name='217 Contains Duplicate'/>
         <page name='219 Contains Duplicate II'/>
+        <page name='283 Move Zeroes'/>
     </pages>
 </playground>
