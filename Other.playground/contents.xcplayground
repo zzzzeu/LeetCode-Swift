@@ -46,5 +46,6 @@
         <page name='217 Contains Duplicate'/>
         <page name='219 Contains Duplicate II'/>
         <page name='283 Move Zeroes'/>
+        <page name='268 Missing Number'/>
     </pages>
 </playground>
