@@ -51,5 +51,6 @@
         <page name='268 Missing Number'/>
         <page name='263 Ugly Number'/>
         <page name='290 Word Pattern'/>
+        <page name='292 Nim Game'/>
     </pages>
 </playground>
