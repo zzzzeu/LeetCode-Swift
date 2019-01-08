@@ -47,10 +47,11 @@
         <page name='219 Contains Duplicate II'/>
         <page name='283 Move Zeroes'/>
         <page name='231 Power of Two'/>
-        <page name='242 Valid Anagram'/>
         <page name='268 Missing Number'/>
+        <page name='242 Valid Anagram'/>
         <page name='263 Ugly Number'/>
         <page name='290 Word Pattern'/>
         <page name='292 Nim Game'/>
+        <page name='258 Add Digits'/>
     </pages>
 </playground>
