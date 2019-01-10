@@ -12,5 +12,6 @@
         <page name='108 Convert Sorted Array to Binary Search Tree'/>
         <page name='107 Binary Tree Level Order Traversal II'/>
         <page name='100 Same Tree'/>
+        <page name='101 Symmetric Tree'/>
     </pages>
 </playground>
