@@ -14,5 +14,6 @@
         <page name='100 Same Tree'/>
         <page name='101 Symmetric Tree'/>
         <page name='110 Balanced Binary Tree'/>
+        <page name='111 Minimum Depth of Binary Tree'/>
     </pages>
 </playground>
