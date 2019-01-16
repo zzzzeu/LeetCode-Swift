@@ -53,5 +53,7 @@
         <page name='290 Word Pattern'/>
         <page name='292 Nim Game'/>
         <page name='258 Add Digits'/>
+        <page name='49 Group Anagrams'/>
+        <page name='264 Ugly Number II'/>
     </pages>
 </playground>
