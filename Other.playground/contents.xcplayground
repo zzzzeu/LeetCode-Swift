@@ -55,5 +55,6 @@
         <page name='258 Add Digits'/>
         <page name='49 Group Anagrams'/>
         <page name='264 Ugly Number II'/>
+        <page name='205 Isomorphic Strings'/>
     </pages>
 </playground>
