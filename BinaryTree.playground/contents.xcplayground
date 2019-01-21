@@ -16,6 +16,7 @@
         <page name='110 Balanced Binary Tree'/>
         <page name='111 Minimum Depth of Binary Tree'/>
         <page name='112 Path Sum'/>
-        <page name='113 Parh Sum II'/>
+        <page name='113 Path Sum II'/>
+        <page name='654 Maximum Binary Tree'/>
     </pages>
 </playground>
