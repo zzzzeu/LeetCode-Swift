@@ -18,5 +18,6 @@
         <page name='112 Path Sum'/>
         <page name='113 Path Sum II'/>
         <page name='654 Maximum Binary Tree'/>
+        <page name='617 Merge Two Binary Trees'/>
     </pages>
 </playground>
