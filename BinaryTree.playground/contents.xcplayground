@@ -17,8 +17,9 @@
         <page name='111 Minimum Depth of Binary Tree'/>
         <page name='112 Path Sum'/>
         <page name='113 Path Sum II'/>
-        <page name='654 Maximum Binary Tree'/>
-        <page name='617 Merge Two Binary Trees'/>
         <page name='513 Find Bottom Left Tree Value'/>
+        <page name='617 Merge Two Binary Trees'/>
+        <page name='654 Maximum Binary Tree'/>
+        <page name='669 Trim a Binary Search Tree'/>
     </pages>
 </playground>
