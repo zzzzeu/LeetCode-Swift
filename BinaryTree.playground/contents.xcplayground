@@ -22,5 +22,6 @@
         <page name='654 Maximum Binary Tree'/>
         <page name='669 Trim a Binary Search Tree'/>
         <page name='637 Average of Levels in Binary Tree'/>
+        <page name='700 Search in a Binary Search Tree'/>
     </pages>
 </playground>
