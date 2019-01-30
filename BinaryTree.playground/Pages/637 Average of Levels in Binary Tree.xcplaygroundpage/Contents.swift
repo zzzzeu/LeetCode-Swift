@@ -10,7 +10,7 @@ class Solution {
         while !tree.isEmpty {
             var level = 0.0
             let count = tree.count
-            for _ in 0..<count {
+            for _ in tree.indices {
                 node = tree.removeFirst()
                 level += Double(node.val)
                 if let left = node.left {

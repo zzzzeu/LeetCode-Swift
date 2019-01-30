@@ -3,10 +3,8 @@ class Solution {
         guard let root = root else { return nil }
         if root.val == val {
             return root
-        } else if root.val > val {
-            return searchBST(root.left, val)
         } else {
-            return searchBST(root.right, val)
+            return root.val > val ? searchBST(root.left, val) : searchBST(root.right, val)
         }
     }
 }

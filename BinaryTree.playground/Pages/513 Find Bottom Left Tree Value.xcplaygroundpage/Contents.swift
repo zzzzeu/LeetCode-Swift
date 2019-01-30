@@ -5,11 +5,11 @@ class Solution {
         tree.append(node)
         while !tree.isEmpty {
             node = tree.removeFirst()
-            if node.right != nil {
-                tree.append(node.right!)
+            if let right = node.right {
+                tree.append(right)
             }
-            if node.left != nil {
-                tree.append(node.left!)
+            if let left = node.left {
+                tree.append(left)
             }
         }
         return node.val
