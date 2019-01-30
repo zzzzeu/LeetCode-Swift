@@ -11,17 +11,5 @@
         <page name='230 Kth Smallest Element in a BST'/>
         <page name='108 Convert Sorted Array to Binary Search Tree'/>
         <page name='107 Binary Tree Level Order Traversal II'/>
-        <page name='100 Same Tree'/>
-        <page name='101 Symmetric Tree'/>
-        <page name='110 Balanced Binary Tree'/>
-        <page name='111 Minimum Depth of Binary Tree'/>
-        <page name='112 Path Sum'/>
-        <page name='113 Path Sum II'/>
-        <page name='513 Find Bottom Left Tree Value'/>
-        <page name='617 Merge Two Binary Trees'/>
-        <page name='654 Maximum Binary Tree'/>
-        <page name='669 Trim a Binary Search Tree'/>
-        <page name='637 Average of Levels in Binary Tree'/>
-        <page name='700 Search in a Binary Search Tree'/>
     </pages>
 </playground>
