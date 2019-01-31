@@ -11,9 +11,7 @@ class Solution {
                 map[temp] = [str]
             }
         }
-        for list in map.values {
-            result.append(list)
-        }
+        result.append(contentsOf: map.values)
         return result
     }
 }
