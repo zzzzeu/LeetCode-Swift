@@ -4,10 +4,8 @@ class Solution {
             return false
         }
         var nums = nums.sorted()
-        for i in 0..<nums.count - 1 {
-            if nums[i] == nums[i + 1] {
-                return true
-            }
+        for i in 0..<nums.count - 1 where nums[i] == nums[i + 1] {
+            return true
         }
         return false
     }

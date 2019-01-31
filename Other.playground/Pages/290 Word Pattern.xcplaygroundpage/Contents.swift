@@ -6,10 +6,8 @@ class Solution {
         }
         var map = [Character: String]()
         for (i, value) in pattern.enumerated() {
-            if map.keys.contains(value) {
-                if map[value]! != array[i] {
-                    return false
-                }
+            if let temp = map[value], temp != array[i] {
+                return false
             } else {
                 if map.values.contains(String(array[i])) {
                     return false
