@@ -24,5 +24,6 @@
         <page name='669 Trim a Binary Search Tree'/>
         <page name='700 Search in a Binary Search Tree'/>
         <page name='538 Convert BST to Greater Tree'/>
+        <page name='257 Binary Tree Paths'/>
     </pages>
 </playground>
