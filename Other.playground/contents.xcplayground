@@ -33,5 +33,31 @@
         <page name='120 Triangle'/>
         <page name='121 Best Time to Buy And Sell Stock'/>
         <page name='122 Best Time to Buy And Sell Stock II'/>
+        <page name='26 Remove Duplicates From Sorted Array'/>
+        <page name='39 Combination Sum'/>
+        <page name='40 Combination Sum II'/>
+        <page name='49 Group Anagrams'/>
+        <page name='125 Valid Palindrome'/>
+        <page name='136 Single Number'/>
+        <page name='167 Two Sum II Input Array is Sorted'/>
+        <page name='169 Majority Element'/>
+        <page name='172 Factorial Trailing Zeroes'/>
+        <page name='189 Rotate Array'/>
+        <page name='198 House Robber'/>
+        <page name='202 Happy Number'/>
+        <page name='204 Count Primes'/>
+        <page name='205 Isomorphic Strings'/>
+        <page name='217 Contains Duplicate'/>
+        <page name='219 Contains Duplicate II'/>
+        <page name='231 Power of Two'/>
+        <page name='242 Valid Anagram'/>
+        <page name='258 Add Digits'/>
+        <page name='263 Ugly Number'/>
+        <page name='264 Ugly Number II'/>
+        <page name='268 Missing Number'/>
+        <page name='283 Move Zeroes'/>
+        <page name='290 Word Pattern'/>
+        <page name='292 Nim Game'/>
+        <page name='216 Combination Sum III'/>
     </pages>
 </playground>
