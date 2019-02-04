@@ -59,5 +59,6 @@
         <page name='290 Word Pattern'/>
         <page name='292 Nim Game'/>
         <page name='216 Combination Sum III'/>
+        <page name='77 Combinations'/>
     </pages>
 </playground>
