@@ -3,12 +3,9 @@ class Solution {
         var res = [[Int]]()
         res.append([])
         for i in nums.indices {
-            let size = res.count - 1
-            for j in 0...size {
-                var list = res[j]
+            for var list in res {
                 list.append(nums[i])
                 res.append(list)
-                list.removeLast()
             }
         }
         return res

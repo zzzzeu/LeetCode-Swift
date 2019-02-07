@@ -9,7 +9,7 @@ class Solution {
             res.append(list)
             return
         }
-        for i in start..<n + 1 {
+        for i in start...n {
             list.append(i)
             dfs(&res, &list, n, k, i + 1)
             list.removeLast()
