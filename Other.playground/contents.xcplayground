@@ -63,5 +63,6 @@
         <page name='78 Subsets'/>
         <page name='90 Subsets II'/>
         <page name='137 Single Number II'/>
+        <page name='260 Single Number III'/>
     </pages>
 </playground>
