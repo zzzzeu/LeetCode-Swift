@@ -68,5 +68,6 @@
         <page name='62 Unique Paths'/>
         <page name='63 Unique Paths II'/>
         <page name='64 Minimum Path Sum'/>
+        <page name='287 Find the Duplicate Number'/>
     </pages>
 </playground>
