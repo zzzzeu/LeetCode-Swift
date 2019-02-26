@@ -69,5 +69,6 @@
         <page name='63 Unique Paths II'/>
         <page name='64 Minimum Path Sum'/>
         <page name='287 Find the Duplicate Number'/>
+        <page name='215 Kth Largest Element in An Array'/>
     </pages>
 </playground>
