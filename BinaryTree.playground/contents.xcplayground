@@ -26,5 +26,7 @@
         <page name='669 Trim a Binary Search Tree'/>
         <page name='700 Search in a Binary Search Tree'/>
         <page name='114 Flatten Binary Tree to Linked List'/>
+        <page name='105  Construct Binary Tree From Preorder And Inorder Traversal'/>
+        <page name='106 Construct Binary Tree From Inorder and Postorder Traversal'/>
     </pages>
 </playground>
