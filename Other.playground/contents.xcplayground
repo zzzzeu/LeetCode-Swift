@@ -70,5 +70,7 @@
         <page name='64 Minimum Path Sum'/>
         <page name='287 Find the Duplicate Number'/>
         <page name='215 Kth Largest Element in An Array'/>
+        <page name='238 Product of Array Except Self'/>
+        <page name='232 Implement Queue Using Stacks'/>
     </pages>
 </playground>
