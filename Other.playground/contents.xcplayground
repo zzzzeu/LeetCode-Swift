@@ -72,5 +72,6 @@
         <page name='215 Kth Largest Element in An Array'/>
         <page name='238 Product of Array Except Self'/>
         <page name='232 Implement Queue Using Stacks'/>
+        <page name='225 Implement Stack Using Queues'/>
     </pages>
 </playground>
