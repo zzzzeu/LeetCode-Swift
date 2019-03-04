@@ -73,5 +73,6 @@
         <page name='238 Product of Array Except Self'/>
         <page name='232 Implement Queue Using Stacks'/>
         <page name='225 Implement Stack Using Queues'/>
+        <page name='155 Min Stack'/>
     </pages>
 </playground>
