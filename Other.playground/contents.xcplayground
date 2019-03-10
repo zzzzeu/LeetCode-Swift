@@ -77,5 +77,6 @@
         <page name='75 Sort Colors'/>
         <page name='164 Maximum Gap'/>
         <page name='80 Remove Duplicates From Sorted Array II'/>
+        <page name='153 Find Minimum in Rotated Sorted Array'/>
     </pages>
 </playground>
