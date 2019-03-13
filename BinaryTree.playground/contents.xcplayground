@@ -29,5 +29,6 @@
         <page name='105  Construct Binary Tree From Preorder And Inorder Traversal'/>
         <page name='106 Construct Binary Tree From Inorder and Postorder Traversal'/>
         <page name='129 Sum Root to Leaf Numbers'/>
+        <page name='96 Unique Binary Search Trees'/>
     </pages>
 </playground>
