@@ -30,5 +30,6 @@
         <page name='106 Construct Binary Tree From Inorder and Postorder Traversal'/>
         <page name='129 Sum Root to Leaf Numbers'/>
         <page name='96 Unique Binary Search Trees'/>
+        <page name='95 Unique Binary Search Trees II'/>
     </pages>
 </playground>
