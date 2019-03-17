@@ -4,10 +4,8 @@ class Solution {
         while left < right {
             let mid = (left + right) / 2
             var count = 0
-            for i in nums.indices {
-                if nums[i] <= mid {
-                    count += 1
-                }
+            for num in nums where num <= mid {
+                count += 1
             }
             if count <= mid {
                 left = mid + 1
