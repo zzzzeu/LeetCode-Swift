@@ -3,8 +3,7 @@ class Solution {
         if nums.count < 2 {
             return 0
         }
-        var nums = nums
-        nums.sort()
+        let nums = nums.sorted()
         var result = 0
         for i in 1..<nums.count  {
             result = max(result, nums[i] - nums[i - 1])

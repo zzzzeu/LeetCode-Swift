@@ -1,12 +1,10 @@
 class Solution {
     func subsetsWithDup(_ nums: [Int]) -> [[Int]] {
-        var res = [[Int]]()
-        res.append([])
-        var nums = nums
-        nums.sort()
-        for i in nums.indices {
+        var res = [[Int]]([])
+        let sortedNums = nums.sorted()
+        for i in sortedNums.indices {
             for var list in res {
-                list.append(nums[i])
+                list.append(sortedNums[i])
                 if !res.contains(list) {
                     res.append(list)
                 }

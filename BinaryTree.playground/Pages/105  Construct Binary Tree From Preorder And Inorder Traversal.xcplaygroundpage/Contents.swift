@@ -1,9 +1,9 @@
 class Solution {
     func buildTree(_ preorder: [Int], _ inorder: [Int]) -> TreeNode? {
-        var preorder_l = [Int]()
-        var preorder_r = [Int]()
-        var inorder_l = [Int]()
-        var inorder_r = [Int]()
+        var preorderL = [Int]()
+        var preorderR = [Int]()
+        var inorderL = [Int]()
+        var inorderR = [Int]()
         var index = 0
         if preorder.count == 0 || inorder.count == 0 {
             return nil
@@ -14,15 +14,15 @@ class Solution {
                 index = i
                 break
             }
-            inorder_l.append(inorder[i])
-            preorder_l.append(preorder[(i + 1)])
+            inorderL.append(inorder[i])
+            preorderL.append(preorder[(i + 1)])
         }
         for j in index + 1..<inorder.count {
-            inorder_r.append(inorder[j])
-            preorder_r.append(preorder[j])
+            inorderR.append(inorder[j])
+            preorderR.append(preorder[j])
         }
-        root.left = buildTree(preorder_l, inorder_l)
-        root.right = buildTree(preorder_r, inorder_r)
+        root.left = buildTree(preorderL, inorderL)
+        root.right = buildTree(preorderR, inorderR)
         return root
     }
 }

@@ -1,7 +1,6 @@
 class Solution {
     func findKthLargest(_ nums: [Int], _ k: Int) -> Int {
-        var nums = nums
-        nums.sort()
-        return nums[nums.count - k]
+        let sortedNums = nums.sorted()
+        return sortedNums[nums.count - k]
     }
 }
