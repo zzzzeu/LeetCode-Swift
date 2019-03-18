@@ -74,5 +74,10 @@
         <page name='232 Implement Queue Using Stacks'/>
         <page name='225 Implement Stack Using Queues'/>
         <page name='155 Min Stack'/>
+        <page name='75 Sort Colors'/>
+        <page name='80 Remove Duplicates From Sorted Array II'/>
+        <page name='153 Find Minimum in Rotated Sorted Array'/>
+        <page name='164 Maximum Gap'/>
+        <page name='38 Count and Say'/>
     </pages>
 </playground>
