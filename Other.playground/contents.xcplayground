@@ -80,5 +80,6 @@
         <page name='164 Maximum Gap'/>
         <page name='38 Count and Say'/>
         <page name='73 Set Matrix Zeroes'/>
+        <page name='36 Valid Sudoku'/>
     </pages>
 </playground>
