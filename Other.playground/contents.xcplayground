@@ -81,5 +81,6 @@
         <page name='38 Count and Say'/>
         <page name='73 Set Matrix Zeroes'/>
         <page name='36 Valid Sudoku'/>
+        <page name='37 Sudoku Solver'/>
     </pages>
 </playground>
