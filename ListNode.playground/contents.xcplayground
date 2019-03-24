@@ -14,5 +14,7 @@
         <page name='82 Remove Duplicates from Sorted List II'/>
         <page name='83 Remove Duplicates from Sorted List'/>
         <page name='147 Insertion Sort List'/>
+        <page name='148 Sort List'/>
+        <page name='86 Partition List'/>
     </pages>
 </playground>
