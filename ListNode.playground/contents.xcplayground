@@ -16,5 +16,6 @@
         <page name='147 Insertion Sort List'/>
         <page name='148 Sort List'/>
         <page name='86 Partition List'/>
+        <page name='23 Merge K Sorted Lists'/>
     </pages>
 </playground>
