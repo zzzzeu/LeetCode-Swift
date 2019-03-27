@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+<playground version='6.0' target-platform='ios'>
     <pages>
         <page name='Test'/>
         <page name='2 Add Two Numbers'/>
@@ -16,6 +16,5 @@
         <page name='147 Insertion Sort List'/>
         <page name='148 Sort List'/>
         <page name='86 Partition List'/>
-        <page name='23 Merge K Sorted Lists'/>
     </pages>
 </playground>
