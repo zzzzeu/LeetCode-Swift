@@ -84,5 +84,6 @@
         <page name='287 Find the Duplicate Number'/>
         <page name='134 Gas Station'/>
         <page name='299 Bulls and Cows'/>
+        <page name='60 Permutation Sequence'/>
     </pages>
 </playground>
