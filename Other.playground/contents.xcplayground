@@ -85,5 +85,6 @@
         <page name='134 Gas Station'/>
         <page name='299 Bulls and Cows'/>
         <page name='60 Permutation Sequence'/>
+        <page name='54 Spiral Matrix'/>
     </pages>
 </playground>
