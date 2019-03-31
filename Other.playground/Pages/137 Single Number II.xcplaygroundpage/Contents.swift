@@ -3,8 +3,7 @@ class Solution {
         if nums.count == 1 {
             return nums[0]
         }
-        var nums = nums
-        nums.sort()
+        let nums = nums.sorted()
         for i in nums.indices {
             if nums[0] != nums[1] {
                 return nums[0]

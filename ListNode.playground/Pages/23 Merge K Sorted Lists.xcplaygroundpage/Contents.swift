@@ -5,10 +5,10 @@ class Solution {
         }
         var temp = [Int]()
         for i in lists.indices {
-            var node = lists[i]
-            while node != nil {
-                temp.append(node!.val)
-                node = node?.next
+            let node = lists[i]
+            while var node = node {
+                temp.append(node.val)
+                node = node.next!
             }
         }
         temp = temp.sorted()

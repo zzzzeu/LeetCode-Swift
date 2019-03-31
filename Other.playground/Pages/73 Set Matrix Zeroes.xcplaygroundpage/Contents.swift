@@ -3,11 +3,9 @@ class Solution {
         var rows = [Int]()
         var cols = [Int]()
         for i in matrix.indices {
-            for j in matrix[i].indices {
-                if matrix[i][j] == 0 {
-                    rows.append(i)
-                    cols.append(j)
-                }
+            for j in matrix[i].indices where matrix[i][j] == 0 {
+                rows.append(i)
+                cols.append(j)
             }
         }
         for col in cols {
