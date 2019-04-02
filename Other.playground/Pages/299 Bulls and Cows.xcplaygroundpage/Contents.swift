@@ -9,8 +9,8 @@ class Solution {
             secArray[i] = "a"
             gueArray[i] = "a"
         }
-        secArray = secArray.filter{ $0 != "a" }
-        gueArray = gueArray.filter{ $0 != "a" }
+        secArray = secArray.filter { $0 != "a" }
+        gueArray = gueArray.filter { $0 != "a" }
         for i in gueArray.indices {
             for j in secArray.indices where secArray[j] == gueArray[i] {
                 b += 1

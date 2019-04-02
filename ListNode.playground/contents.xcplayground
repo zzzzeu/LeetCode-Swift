@@ -16,5 +16,8 @@
         <page name='147 Insertion Sort List'/>
         <page name='148 Sort List'/>
         <page name='86 Partition List'/>
+        <page name='23 Merge K Sorted Lists'/>
+        <page name='92 Reverse Linked List II'/>
+        <page name='61 Rotate List'/>
     </pages>
 </playground>

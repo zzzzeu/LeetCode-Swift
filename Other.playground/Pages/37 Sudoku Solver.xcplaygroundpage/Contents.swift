@@ -4,20 +4,16 @@ class Solution {
     }
     func helper(_ board: inout [[Character]]) -> Bool {
         for i in board.indices {
-            for j in board[0].indices {
-                if board[i][j] == "." {
-                    for num in 1...9 {
-                        if isValid(board, i, j, Character(String(num))) {
-                            board[i][j] = Character(String(num))
-                            if helper(&board) {
-                                return true
-                            } else {
-                                board[i][j] = "."
-                            }
-                        }
+            for j in board[0].indices where board[i][j] == "." {
+                for num in 1...9 where isValid(board, i, j, Character(String(num))) {
+                    board[i][j] = Character(String(num))
+                    if helper(&board) {
+                        return true
+                    } else {
+                        board[i][j] = "."
                     }
-                    return false
                 }
+                return false
             }
         }
         return true
