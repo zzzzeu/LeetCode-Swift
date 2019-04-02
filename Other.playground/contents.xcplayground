@@ -78,5 +78,9 @@
         <page name='260 Single Number III'/>
         <page name='264 Ugly Number II'/>
         <page name='287 Find the Duplicate Number'/>
+        <page name='134 Gas Station'/>
+        <page name='299 Bulls and Cows'/>
+        <page name='60 Permutation Sequence'/>
+        <page name='54 Spiral Matrix'/>
     </pages>
 </playground>
