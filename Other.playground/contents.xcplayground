@@ -82,5 +82,10 @@
         <page name='299 Bulls and Cows'/>
         <page name='60 Permutation Sequence'/>
         <page name='54 Spiral Matrix'/>
+        <page name='36 Valid Sudoku'/>
+        <page name='37 Sudoku Solver'/>
+        <page name='38 Count and Say'/>
+        <page name='73 Set Matrix Zeroes'/>
+        <page name='59 Spiral Matrix II'/>
     </pages>
 </playground>
