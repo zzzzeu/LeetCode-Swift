@@ -87,5 +87,6 @@
         <page name='38 Count and Say'/>
         <page name='73 Set Matrix Zeroes'/>
         <page name='59 Spiral Matrix II'/>
+        <page name='43 Multiply Strings'/>
     </pages>
 </playground>
