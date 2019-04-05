@@ -88,5 +88,6 @@
         <page name='73 Set Matrix Zeroes'/>
         <page name='59 Spiral Matrix II'/>
         <page name='43 Multiply Strings'/>
+        <page name='72 Edit Distance'/>
     </pages>
 </playground>
