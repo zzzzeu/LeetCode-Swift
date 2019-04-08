@@ -91,5 +91,6 @@
         <page name='43 Multiply Strings'/>
         <page name='72 Edit Distance'/>
         <page name='200 Number of Islands'/>
+        <page name='187 Repeated DNA Sequences'/>
     </pages>
 </playground>
