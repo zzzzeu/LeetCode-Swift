@@ -95,5 +95,6 @@
         <page name='223 Rectangle Area'/>
         <page name='300 Longest Increasing Subsequence'/>
         <page name='367 Valid Perfect Square'/>
+        <page name='162 Find Peak Element'/>
     </pages>
 </playground>
