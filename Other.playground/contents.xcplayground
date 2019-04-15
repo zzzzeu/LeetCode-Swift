@@ -96,5 +96,6 @@
         <page name='300 Longest Increasing Subsequence'/>
         <page name='367 Valid Perfect Square'/>
         <page name='162 Find Peak Element'/>
+        <page name='33 Search in Rotated Sorted Array'/>
     </pages>
 </playground>
