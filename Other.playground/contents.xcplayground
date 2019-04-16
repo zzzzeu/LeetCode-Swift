@@ -97,5 +97,6 @@
         <page name='367 Valid Perfect Square'/>
         <page name='162 Find Peak Element'/>
         <page name='33 Search in Rotated Sorted Array'/>
+        <page name='34 Find First And Last Position of Element In Sorted Array'/>
     </pages>
 </playground>
