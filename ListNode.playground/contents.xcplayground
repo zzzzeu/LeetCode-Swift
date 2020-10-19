@@ -19,5 +19,6 @@
         <page name='23 Merge K Sorted Lists'/>
         <page name='92 Reverse Linked List II'/>
         <page name='61 Rotate List'/>
+        <page name='237 Delete node in a linked list'/>
     </pages>
 </playground>
