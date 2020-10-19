@@ -32,5 +32,6 @@
         <page name='96 Unique Binary Search Trees'/>
         <page name='95 Unique Binary Search Trees II'/>
         <page name='99 Recover Binary Search Tree'/>
+        <page name='235 Lowest common ancestor of a binary search tree'/>
     </pages>
 </playground>
