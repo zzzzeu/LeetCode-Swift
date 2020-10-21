@@ -100,5 +100,6 @@
         <page name='34 Find First And Last Position of Element In Sorted Array'/>
         <page name='209 Minimum Size Subarray Sum'/>
         <page name='74 Search a 2D Matrix'/>
+        <page name='326 Power of three'/>
     </pages>
 </playground>
