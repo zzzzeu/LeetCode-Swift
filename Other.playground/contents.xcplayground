@@ -103,5 +103,6 @@
         <page name='326 Power of three'/>
         <page name='139 Word break'/>
         <page name='171 Excel sheet column number'/>
+        <page name='154 Find minimum in rotated sorted array II'/>
     </pages>
 </playground>
