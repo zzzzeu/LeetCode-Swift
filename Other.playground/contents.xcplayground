@@ -106,5 +106,6 @@
         <page name='154 Find minimum in rotated sorted array II'/>
         <page name='56 Merge intervals'/>
         <page name='57 Insert interval'/>
+        <page name='128 Longest consecutive sequence'/>
     </pages>
 </playground>
