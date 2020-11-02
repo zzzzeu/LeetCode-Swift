@@ -22,5 +22,6 @@
         <page name='237 Delete node in a linked list'/>
         <page name='160 Intersection of two linked lists'/>
         <page name='142 Linked list cycle II'/>
+        <page name='141 Linked list cycle'/>
     </pages>
 </playground>
