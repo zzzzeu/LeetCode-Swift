@@ -23,5 +23,6 @@
         <page name='160 Intersection of two linked lists'/>
         <page name='142 Linked list cycle II'/>
         <page name='141 Linked list cycle'/>
+        <page name='25 Reverse nodes in k group'/>
     </pages>
 </playground>
