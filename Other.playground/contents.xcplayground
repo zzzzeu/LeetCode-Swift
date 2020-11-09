@@ -107,5 +107,6 @@
         <page name='56 Merge intervals'/>
         <page name='57 Insert interval'/>
         <page name='128 Longest consecutive sequence'/>
+        <page name='152 Maximum product subarray'/>
     </pages>
 </playground>
