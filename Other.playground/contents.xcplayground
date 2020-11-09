@@ -108,5 +108,6 @@
         <page name='57 Insert interval'/>
         <page name='128 Longest consecutive sequence'/>
         <page name='152 Maximum product subarray'/>
+        <page name='387 First unique character in a string'/>
     </pages>
 </playground>
